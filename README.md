@@ -10,4 +10,4 @@ Obtained from Kaggle, see 'Dataset_Folder'
 
 'Functions.py': Functions used for performing feature selection in detecting False Positives and False Negatives
 
-'Results": Folder containing EDA plots and the correlation matrix.
+'Plots": Folder containing EDA plots and the correlation matrix.
