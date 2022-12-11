@@ -1,10 +1,12 @@
 # CS229 Project: Credit Card Approval Prediction
+Fang Shu
+Gordon Tsai
 
 ## Datasets
 Obtained from Kaggle, see 'Dataset_Folder'
 
 ## Files
-'EDA.py': Exploratory data analysis.
+'EDA.py': Exploratory data analysis and data pre-processing.
 
 'Models.py': Fitting the models used in the study and perform hyperparameter tuning
 
