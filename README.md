@@ -1,4 +1,5 @@
 # CS229 Project: Credit Card Approval Prediction
+Team Members: 
 Fang Shu
 Gordon Tsai
 
